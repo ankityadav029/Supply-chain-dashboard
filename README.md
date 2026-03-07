@@ -17,6 +17,9 @@ Key focus areas:
 - Monthly order trends
 - Delivery efficiency analysis
 
+📊 Dashboard Preview
+<img width="1278" height="721" alt="supply chain dashboard" src="https://github.com/user-attachments/assets/2e26c140-b048-42d1-9d5c-6e79185e17b3" />
+
 ---
 
 📊 Key Dashboard Features
