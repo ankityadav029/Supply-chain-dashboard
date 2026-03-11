@@ -1,11 +1,11 @@
-🚚 Supply Chain Management Dashboard
+ Supply Chain Management Dashboard
 
 This project presents an interactive Supply Chain Management Dashboard built using Power BI.
 The dashboard provides insights into sales performance, order distribution, warehouse operations, and delivery efficiency to help businesses optimize their supply chain.
 
 ---
 
-🎯 Project Objective
+ Project Objective
 
 The goal of this project is to analyze supply chain data and identify patterns in orders, revenue, and logistics performance.
 
@@ -17,12 +17,12 @@ Key focus areas:
 - Monthly order trends
 - Delivery efficiency analysis
 
-📊 Dashboard Preview
+ Dashboard Preview
 <img width="1278" height="721" alt="supply chain dashboard" src="https://github.com/user-attachments/assets/2e26c140-b048-42d1-9d5c-6e79185e17b3" />
 
 ---
 
-📊 Key Dashboard Features
+ Key Dashboard Features
 
 Business KPIs
 
@@ -49,7 +49,7 @@ Operational Insights
 
 ---
 
-🛠 Tools Used
+ Tools Used
 
 - Power BI
 - Data Analysis
@@ -57,7 +57,7 @@ Operational Insights
 
 ---
 
-💡 Key Insights
+ Key Insights
 
 - In-store sales channel generates the highest orders
 - Some warehouses contribute significantly more revenue
